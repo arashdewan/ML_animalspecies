@@ -1,5 +1,6 @@
 # ML_animalspecies
 
+(written on Jupyter Notebook)
 Predicting Animal Species
 
 An important aspect of studies done on animals is the recording and catalogging of a variety of different species of a specific animal. This type of resarch allows us to analyze the ways in which different species vary in specific physiological and environmental features. From this research, I can make predictions about the species of an animal based soley on these catalogged features. In this report, I will focus on a study conducted in Antartica that recorded a variety of physical and environmental features of three species of penguins: Adelie, Chinstrap, and Gentoo. 
